@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BrokerApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="orders">Orders</string>
+    <string name="profile">Profile</string>
+    <string name="network">Network</string>
+    <string name="home">Home</string>
+    <string name="coimbatore">Coimbatore</string>
+    <string name="book_an_appointment">Book an appointment</string>
+</resources>
